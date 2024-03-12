@@ -81,15 +81,18 @@
     left: 50%;
     margin-left: -9px;
   }
+
   .h3 {
     top: 140px;
     right: 30px;
   }
+
   .h6 {
     bottom: 30px;
     left: 50%;
     margin-left: -5px;
   }
+
   .h9 {
     left: 32px;
     top: 140px;
@@ -105,6 +108,7 @@
     margin-left: -1px;
     transform-origin: 50% 150px;
   }
+
   .diallines:nth-of-type(5n) {
     position: absolute;
     z-index: 2;
@@ -136,9 +140,11 @@
     margin-left: -60px;
     left: 50%;
   }
+
   .date {
       top: 80px;
     }
+
   .day {
       top: 200px;
   }
